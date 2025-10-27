@@ -1,28 +1,5 @@
 # ✨ Érica Bonfanti 
 
-<div align="center">
-  <h1 style="animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;">
-    Desenvolvedora FullStack, Erica Bonfanti Correa
-  </h1>
-  <style>
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    @keyframes blink-caret {
-      from, to { border-color: transparent; }
-      50% { border-color: #ff6b6b; }
-    }
-    h1 {
-      font-family: 'Courier New', monospace;
-      border-right: 2px solid #ff6b6b;
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-      color: #ff6b6b;
-    }
-  </style>
-</div>
 
 **`Desenvolvedora FullStack`** | **`Frontend`**
 
@@ -125,14 +102,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-  }
-</style>
-
 <br/>
 <br/>
 
@@ -146,15 +115,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EricaBonfanti&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
-
-  <a href="https://github.com/EricaBonfanti">
-        <img 
-            alt="Streak" 
-            title="Minha streak no GitHub" 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=EricaBonfanti&theme=synthwave"
-        />
-    </a>
-</p>
 
 <img 
       align="left" 
