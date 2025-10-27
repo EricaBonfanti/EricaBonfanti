@@ -136,14 +136,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
 <br/>
 
 
-### 📊 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricaBonfanti&theme=github-compact" alt="Gráfico de Atividade" />
-</div>
-
-*Veja minha atividade diária no GitHub – dias produtivos em roxo!*
-
 
 ### 📚 O que Estou Aprendendo Agora
 
