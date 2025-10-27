@@ -89,7 +89,7 @@ Meu nome é Érica Bonfanti Corrêa, atualmente estou cursando o ensino médio t
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🚀 Estatísticas
 
 <p>
   <img 
@@ -104,6 +104,7 @@ Meu nome é Érica Bonfanti Corrêa, atualmente estou cursando o ensino médio t
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaBonfanti&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
