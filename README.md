@@ -45,13 +45,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
             src="https://custom-icon-badges.demolab.com/github/followers/EricaBonfanti?color=bf0010&labelColor=990f00&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/EricaBonfanti?tab=repositories">
-        <img 
-            alt="Repositórios" 
-            title="Meus repositórios" 
-            src="https://custom-icon-badges.demolab.com/github/repos/EricaBonfanti?color=ff6b6b&labelColor=ff5252&style=for-the-badge&logo=repo&label=Repositórios&logoColor=white"
-        />
-    </a>
 
 
 ---
@@ -182,13 +175,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
 <br/>
 <br/>
 
-### 🐍 Jogo da Cobrinha (Snake Game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/snake.svg" alt="Snake Game" />
-</div>
-
-*Jogue a cobrinha baseada no meu gráfico de contribuições! Cada quadrado representa um commit. (Inspirado em bibliotecas como Platane's GitHub Snake)*
 
 ### 📊 Gráfico de Contribuições
 
@@ -198,25 +184,6 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
 
 *Veja minha atividade diária no GitHub – dias produtivos em roxo!*
 
-
-### 🔥 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais legais que desenvolvi. Clique nos links para ver mais!
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Site de Sociologia para ENEM</h3>
-      <p align="center">
-        <a href="https://github.com/EricaBonfanti/Site-de-Sociologia" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EricaBonfanti&repo=Site-de-Sociologia&theme=synthwave" alt="Site de Sociologia" />
-        </a>
-      </p>
-      <p align="center">
-        Um site completo em HTML e CSS sobre pensadores clássicos da sociologia, desenvolvido para estudos do ENEM. Inclui interatividade e design responsivo!
-      </p>
-    </td>
-</table>
 
 ### 📚 O que Estou Aprendendo Agora
 
