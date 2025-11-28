@@ -1,6 +1,13 @@
 # ✨ Érica Bonfanti 
 
 
+<h1 align="center"><b>Oiêe! , Meu nome é Érica Bonfanti Corrêa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+ 
 **`Desenvolvedora FullStack`** | **`Frontend`**
 
 Meu nome é Érica Bonfanti Corrêa, atualmente estou cursando o ensino médio técnico em informática no CEDUP e tenho 17 anos. Pretendo evoluir e continuar estudando na área, graduando Engenharia de Software. Eu sempre tive habilidade para mecher com tecnologia até ter a oportunidade de finalmente começar a estudar sobre. No meu LinkedIn, posto sobre minha jornada nesta área: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
