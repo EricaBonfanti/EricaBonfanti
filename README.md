@@ -3,7 +3,7 @@
  
 **`Desenvolvedora FullStack`** | **`Frontend`**
 
-Meu nome é Érica Bonfanti Corrêa, atualmente estou cursando o ensino médio técnico em informática no CEDUP e tenho 17 anos. Pretendo evoluir e continuar estudando na área, graduando Engenharia de Software. Eu sempre tive habilidade para mecher com tecnologia até ter a oportunidade de finalmente começar a estudar sobre. No meu LinkedIn, posto sobre minha jornada nesta área: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
+Meu nome é Érica Bonfanti Corrêa, atualmente finalizei o ensino médio técnico em informática no CEDUP e tenho 18 anos. Pretendo evoluir e continuar estudando na área, graduando Engenharia de Software na SATC. Eu sempre tive habilidade para mecher com tecnologia até ter a oportunidade de finalmente começar a estudar sobre. No meu LinkedIn, posto sobre minha jornada nesta área: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplicar meus conhecimentos em projetos reais. Adoro desafios e acredito que a tecnologia pode transformar o mundo!
 
