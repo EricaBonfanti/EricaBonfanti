@@ -97,14 +97,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 />
 <img 
     align="left" 
-    alt="phpMyAdmin"
-    title="phpMyAdmin" 
-    width="30px" 
-    style="padding-right: 10px; animation: pulse 2s infinite;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpmyadmin/phpmyadmin-plain.svg" 
-/>
-<img 
-    align="left" 
     alt="n8n"
     title="n8n" 
     width="30px" 
@@ -174,10 +166,6 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 
 - 🎓 **Certificado Jornada Python** - Hashtag Treinamentos (Janeiro de 2026)
 - 🎓 **Semana do Zero ao Programador Contratado** - Dev em Dobro (Fevereiro de 2026)
-
----
-- 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
-
 ---
 
 ### 📚 O que Estou Aprendendo Agora
