@@ -1,11 +1,10 @@
 # ✨ Érica Bonfanti 
 
- 
 **`Desenvolvedora FullStack`** | **`Frontend`**
 
-Meu nome é Érica Bonfanti Corrêa, atualmente finalizei o ensino médio técnico em informática no CEDUP e tenho 18 anos. Pretendo evoluir e continuar estudando na área, graduando Engenharia de Software na SATC. Eu sempre tive habilidade para mecher com tecnologia até ter a oportunidade de finalmente começar a estudar sobre. No meu LinkedIn, posto sobre minha jornada nesta área: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
+Olá! Meu nome é Érica Bonfanti Corrêa. Tenho 18 anos e concluí recentemente o ensino médio técnico em informática no CEDUP. Meu objetivo é aprimorar continuamente minhas habilidades na área de tecnologia, com planos de cursar Engenharia de Software na SATC. Desde cedo, demonstrei aptidão para a tecnologia, e tive a oportunidade de aprofundar meus estudos na área. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
-Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplicar meus conhecimentos em projetos reais. Adoro desafios e acredito que a tecnologia pode transformar o mundo!
+Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos práticos. Acredito firmemente no potencial transformador da tecnologia e adoro enfrentar desafios que impulsionem a inovação.
 
 <p>
     <a href="https://github.com/EricaBonfanti?tab=repositories&sort=stargazers">
@@ -92,6 +91,14 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
     style="padding-right: 10px; animation: pulse 2s infinite;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="n8n"
+    title="n8n" 
+    width="30px" 
+    style="padding-right: 10px; animation: pulse 2s infinite;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -131,21 +138,20 @@ Sou uma entusiasta da programação, sempre buscando aprender algo novo e aplica
 
 ### 📚 O que Estou Aprendendo Agora
 
-- **Backend e Frontend**: com html e css.
-- **Banco de Dados**: Aprofundando em mySQL.
-- **UI/UX Design**: Melhorando minhas habilidades no Figma para criar interfaces incríveis.
+- **Backend e Frontend**: Aprofundando em desenvolvimento web com HTML e CSS.
+- **Banco de Dados**: Foco em MySQL para otimização e gerenciamento de dados.
+- **UI/UX Design**: Aprimorando habilidades no Figma para criar interfaces intuitivas e atraentes.
 
 ### 🏆 Conquistas e Certificações
 
 - 🥇 **Certificado de Inglês Intermediário** - SESC, (2020-2023)
 - 📜 **Cursando Técnico em Informática** - CEDUP (2023-2025)
-- 🌟 **Contribuidora em porjetos** - Já contribuí para projetos como [Site-De-Sociologia](https://github.com/EricaBonfanti/Site-de-Sociologia-)
+- 🌟 **Contribuidora em projetos** - Participei ativamente em projetos como [Site-De-Sociologia](https://github.com/EricaBonfanti/Site-de-Sociologia-)
 
 ### 🎯 Metas para 2025
 
-- Graduar em Engenharia de Software.
-- Fazer muitos projetos.
-- Participar de mais conferências de tecnologia.
+- Concluir a graduação em Engenharia de Software.
+- Desenvolver e lançar múltiplos projetos inovadores.
+- Participar ativamente de conferências e eventos de tecnologia para expandir conhecimentos e networking.
 
 </p>
-
