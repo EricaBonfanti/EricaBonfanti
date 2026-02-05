@@ -97,6 +97,14 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 />
 <img 
     align="left" 
+    alt="phpMyAdmin"
+    title="phpMyAdmin" 
+    width="30px" 
+    style="padding-right: 10px; animation: pulse 2s infinite;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpmyadmin/phpmyadmin-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="n8n"
     title="n8n" 
     width="30px" 
@@ -148,35 +156,50 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 
 ---
 
+### 🏆 Conquistas e Certificações:
+
+#### **2023**
+
+- 🥇 **Certificado de Inglês Intermediário** - SESC (2020-2023)
+
+#### **2025**
+
+- 🎓 **HTML Completo** - Cursa - Cursos Online (Novembro de 2025)
+- 🎓 **Certificado de Participação - Encontro InterInstitucional do Projeto Meninas Digitais UIE** - Even3 (Novembro de 2025)
+- 🎓 **Imersão Dev com Google Gemini 10ª Edição** - Alura (Dezembro de 2025)
+- 🎓 **Figma for Devs** - Rocketseat (Dezembro de 2025)
+- - 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
+
+#### **2026**
+
+- 🎓 **Certificado Jornada Python** - Hashtag Treinamentos (Janeiro de 2026)
+- 🎓 **Semana do Zero ao Programador Contratado** - Dev em Dobro (Fevereiro de 2026)
+
+---
+- 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
+
+---
+
 ### 📚 O que Estou Aprendendo Agora
 
 - **Desenvolvimento FullStack**: Aprofundando em tecnologias modernas para criar aplicações web completas.
 - **Banco de Dados Avançado**: Otimização e gerenciamento de dados com MySQL.
 - **UI/UX Design**: Aprimorando habilidades no Figma para criar interfaces intuitivas e atraentes.
 - **Automação com n8n**: Desenvolvendo habilidades em automação de processos e integrações.
+- **Google Gemini e IA**: Explorando as capacidades de inteligência artificial para desenvolvimento.
 
 ---
 
-### 🏆 Conquistas e Certificações
-
-- 🥇 **Certificado de Inglês Intermediário** - SESC (2020-2023)
-- 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
-- 🌟 **Contribuidora em Projetos** - Participei ativamente em projetos como [Site-De-Sociologia](https://github.com/EricaBonfanti/Site-de-Sociologia-)
-
----
-
-### 🎯 Metas para 2025
+### 🎯 Metas para 2025-2026
 
 - Iniciar a graduação em Engenharia de Software com excelência acadêmica.
 - Desenvolver e lançar múltiplos projetos inovadores que demonstrem minhas habilidades técnicas.
 - Participar ativamente de conferências e eventos de tecnologia para expandir conhecimentos e networking.
 - Buscar oportunidades de estágio ou posições júnior em empresas de tecnologia.
+- Aprofundar conhecimentos em desenvolvimento FullStack e arquitetura de software.
 
 ---
 
-### 💼 Disponibilidade
-
-Estou proativa, organizada e focada em aprendizado contínuo. Estou aberta a oportunidades de **estágio**, **posições júnior** e **projetos** na área de tecnologia, onde eu possa evoluir e contribuir com soluções eficientes e inovadoras.
 
 ---
 
