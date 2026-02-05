@@ -97,14 +97,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 />
 <img 
     align="left" 
-    alt="phpMyAdmin"
-    title="phpMyAdmin" 
-    width="30px" 
-    style="padding-right: 10px; animation: pulse 2s infinite;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpmyadmin/phpmyadmin-plain.svg" 
-/>
-<img 
-    align="left" 
     alt="n8n"
     title="n8n" 
     width="30px" 
