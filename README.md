@@ -1,6 +1,6 @@
 # ✨ Érica Bonfanti 
 
-**`Desenvolvedora FullStack`** | **`Frontend`**
+**`Desenvolvedora FullStack`** | **`Desenvolvedora Web`**
 
 ## 👋 Sobre Mim
 
