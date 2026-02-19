@@ -3,10 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
   </a>
 </p>
-  />
-</p># ✨ Érica Bonfanti 
-
-**`Desenvolvedora FullStack`** | **`Desenvolvedora Web`**
+ 
 
 ## 👋 Sobre Mim
 
@@ -34,6 +31,7 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 </p>
 
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -152,6 +150,11 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 | **Ferramentas** | VS Code, Git, GitHub |
 | **Outras Áreas** | Desenvolvimento Mobile, Redes, Arquitetura de Computadores |
 
+---
+### 🐍 Minhas contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 ---
 
 ### 🏆 Conquistas e Certificações:
