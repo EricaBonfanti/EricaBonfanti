@@ -151,7 +151,7 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 | **Outras Áreas** | Desenvolvimento Mobile, Redes, Arquitetura de Computadores |
 
 ---
-### 🐍 Minhas contribuições
+### Minhas contribuições
 <div align="center">
   <img src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
