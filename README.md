@@ -7,9 +7,9 @@
 
 ## 👋 Sobre Mim
 
-Olá! Meu nome é Érica Bonfanti Corrêa e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e, em breve, iniciarei a graduação em **Engenharia de Software**. 
+Olá! Meu nome é Érica Bonfanti Corrêa e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e estou graduando **Engenharia de Software** na UniSatc. 
 
-Meu interesse pela área começou cedo, quando eu mesma buscava resolver problemas em computadores e celulares no dia a dia, o que despertou minha curiosidade por entender como a tecnologia funciona e como pode ser usada para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
+Meu interesse pela tecnologia começou de forma prática: resolvendo problemas em computadores e celulares no dia a dia. O que era curiosidade virou paixão ao entender que a tecnologia não serve apenas para "consertar", mas para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos práticos. Acredito firmemente no potencial transformador da tecnologia e adoro enfrentar desafios que impulsionem a inovação.
 
@@ -123,6 +123,16 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 ### 📖 Formação e Experiência
 
+### 🎓 Graduação em Engenharia de Software
+Atualmente, sou acadêmico de **Engenharia de Software na SATC** (Associação Beneficente da Indústria Carbonífera de Santa Catarina). ✨
+#### 🌌 Fase Padawan (1º Semestre)
+Minha jornada acadêmica começou com foco total em uma formação sólida e de alto nível. No primeiro semestre, estou imerso nas seguintes disciplinas:
+* **💻 Programação para Engenharia**
+* **📐 Álgebra**
+* **📋 Engenharia de Requisitos**
+* **🛠️ Práticas de Engenharia**
+* **🚀 Jornada Universitária**
+
 #### **Ensino Médio Técnico em Informática - CEDUP Abílio Paulo**
 
 Ao longo da minha formação técnica, desenvolvi experiência sólida em diversas áreas:
@@ -134,8 +144,6 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 **Desenvolvimento Mobile:** Experiência em desenvolvimento de aplicativos móveis, expandindo minha capacidade de criar soluções multiplataforma.
 
 **Infraestrutura e Redes:** Conhecimentos em redes, arquitetura de computadores, montagem e manutenção de computadores.
-
-**Automação e Scripting:** Experiência com Python para automação de processos e desenvolvimento de scripts.
 
 ---
 
@@ -150,11 +158,6 @@ Ao longo da minha formação técnica, desenvolvi experiência sólida em divers
 | **Ferramentas** | VS Code, Git, GitHub |
 | **Outras Áreas** | Desenvolvimento Mobile, Redes, Arquitetura de Computadores |
 
----
-### Minhas contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
 ---
 
 ### 🏆 Conquistas e Certificações:
