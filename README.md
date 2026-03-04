@@ -174,15 +174,6 @@ Minha jornada acadêmica começou com foco total em uma formação sólida e de 
 
 - 🎓 **Certificado Jornada Python** - Hashtag Treinamentos (Janeiro de 2026)
 - 🎓 **Semana do Zero ao Programador Contratado** - Dev em Dobro (Fevereiro de 2026)
----
-
-### 📚 O que Estou Aprendendo Agora
-
-- **Desenvolvimento FullStack**: Aprofundando em tecnologias modernas para criar aplicações web completas.
-- **Banco de Dados Avançado**: Otimização e gerenciamento de dados com MySQL.
-- **UI/UX Design**: Aprimorando habilidades no Figma para criar interfaces intuitivas e atraentes.
-- **Automação com n8n**: Desenvolvendo habilidades em automação de processos e integrações.
-- **Google Gemini e IA**: Explorando as capacidades de inteligência artificial para desenvolvimento.
 
 ---
 
