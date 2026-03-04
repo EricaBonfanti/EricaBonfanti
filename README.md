@@ -1,5 +1,6 @@
 <div align="center">
   <img src="Uploading Captura de tela 2026-03-04 085341.png…" width="150px" style="border-radius: 50%;" alt="Sua Foto">
+</div>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
