@@ -133,17 +133,13 @@ Minha jornada acadêmica começou com foco total em uma formação sólida e de 
 * **🛠️ Práticas de Engenharia**
 * **🚀 Jornada Universitária**
 
-#### **Ensino Médio Técnico em Informática - CEDUP Abílio Paulo**
+---
 
-Ao longo da minha formação técnica, desenvolvi experiência sólida em diversas áreas:
-
-**Desenvolvimento Web:** Trabalhei com HTML, CSS, JavaScript, PHP, MySQL e phpMyAdmin, sempre com atenção à lógica, estrutura e usabilidade. Criei projetos responsivos e funcionais que aplicam boas práticas de desenvolvimento.
-
-**Fundamentos de Programação:** Adquiri conhecimentos sólidos em lógica de programação, linguagens de programação, banco de dados, modelagem de sistemas e testes de software. Esses conhecimentos fortalecem a base de todos os projetos que desenvolvo.
-
-**Desenvolvimento Mobile:** Experiência em desenvolvimento de aplicativos móveis, expandindo minha capacidade de criar soluções multiplataforma.
-
-**Infraestrutura e Redes:** Conhecimentos em redes, arquitetura de computadores, montagem e manutenção de computadores.
+### 🏫 Formação Técnica (CEDUP Abílio Paulo)
+#### Minha base técnica foi construída com foco em praticidade e lógica, abrangendo:
+* **🌐 Web & Mobile:** Desenvolvimento Fullstack (HTML, CSS, JS, PHP, MySQL) e aplicações multiplataforma.
+* **🏗️ Engenharia:** Lógica de programação, modelagem de sistemas, banco de dados e testes de software.
+* **🔌 Infraestrutura:** Redes, arquitetura de computadores e manutenção de hardware.
 
 ---
 
