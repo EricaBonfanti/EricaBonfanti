@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Uploading Captura de tela 2026-03-04 085341.png…" width="150px" style="border-radius: 50%;" alt="Sua Foto">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/UEqdfrEbENFjokGD.png" width="150px" style="border-radius: 50%;" alt="Sua Foto">
 </div>
 
   <a href="https://git.io/typing-svg">
