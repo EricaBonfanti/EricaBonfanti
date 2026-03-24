@@ -2,11 +2,9 @@
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/UEqdfrEbENFjokGD.png" width="2500px" style="border-radius: 50%;" alt="Sua Foto">
 </div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
-  </a>
-</p>
- 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
+</a>
 
 ## 👋 Sobre Mim
 
@@ -34,7 +32,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 </p>
 
 ---
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -76,8 +73,8 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
     title="Java" 
     width="30px" 
     style="padding-right: 10px; animation: pulse 2s infinite;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/
+>
 <img 
     align="left" 
     alt="Python"
@@ -159,3 +156,80 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 ---
 
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
+
+---
+
+## 🐍 Como adicionar o Snake Game (jogo da cobrinha) no seu perfil do Github
+
+Primeiramente devo deixar claro que esse artigo foi desenvolvido com base em vários outros artigos e reconstruído para deixar o mais claro possível a forma para inserir o Snake Game em seu perfil.
+
+### Funcionamento. "Contributions in the last year":
+Basicamente o Snake game funciona realizando uma coleta da sua tabela de contribuições no Github. ele faz a renderização dessas informações e gera dois arquivos, um em formato gif e outro em svg. São esses arquivos que iremos utilizar para inserir a animação no perfil do Github.
+
+Repositorio do projeto a ser utilizado: Platane/snk
+
+#### Exemple
+
+Requisito. "Repositório base":
+Para que você possa prosseguir é necessário que você tenha o repositório do perfil (repositório com o mesmo nome de usuário), porém para gerar os arquivos também funciona em outro repositório.
+
+Actions. "Configuração inicial":
+Inicialmente é necessário que você acesse o seu repositório escolhido e vá em Settings.
+
+No menu vertical ao lado esquerdo selecione o menu Actions e em seguida ative a permissão “Allow all actions”. Também é possível selecionar diretamente o repositório.
+
+Actions. "Criando Gerador":
+Agora que temos o repositório configurado iremos adicionar o "script" para gerar dos arquivos. No repositório, vá em Actions.
+
+Em seguida vamos utilizar “Simple workflow” apenas com o mínimo necessário para rodar o codigo.
+
+Agora é apenas alterar o nome do arquivo e colar o código da configuração com o seu usuário.
+
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Retornando na opção Actions do repositório, clique em “Run workflow”:
