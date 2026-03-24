@@ -159,3 +159,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 ---
 
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
+
+
+![snake gif](https://github.com/EricaBonfanti/blank.yml/blob/main/github-contribution-grid-snake.svg)
