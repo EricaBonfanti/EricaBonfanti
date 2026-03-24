@@ -73,8 +73,8 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
     title="Java" 
     width="30px" 
     style="padding-right: 10px; animation: pulse 2s infinite;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/
->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
+    />
 <img 
     align="left" 
     alt="Python"
@@ -157,8 +157,4 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
 
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Retornando na opção Actions do repositório, clique em “Run workflow”:
+![snake gif](https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg)
