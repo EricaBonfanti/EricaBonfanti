@@ -124,28 +124,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 ---
 
-### 📖 Formação e Experiência
-
-### 🎓 Graduação em Engenharia de Software
-Atualmente, sou acadêmico de **Engenharia de Software na SATC** (Associação Beneficente da Indústria Carbonífera de Santa Catarina). ✨
-#### 🌌 Fase Padawan (1º Semestre)
-Minha jornada acadêmica começou com foco total em uma formação sólida e de alto nível. No primeiro semestre, estou imerso nas seguintes disciplinas:
-* **💻 Programação para Engenharia**
-* **📐 Álgebra**
-* **📋 Engenharia de Requisitos**
-* **🛠️ Práticas de Engenharia**
-* **🚀 Jornada Universitária**
-
----
-
-### 🏫 Formação Técnica (CEDUP Abílio Paulo)
-#### Minha base técnica foi construída com foco em praticidade e lógica, abrangendo:
-* **🌐 Web & Mobile:** Desenvolvimento Fullstack (HTML, CSS, JS, PHP, MySQL) e aplicações multiplataforma.
-* **🏗️ Engenharia:** Lógica de programação, modelagem de sistemas, banco de dados e testes de software.
-* **🔌 Infraestrutura:** Redes, arquitetura de computadores e manutenção de hardware.
-
----
-
 ### 🚀 Competências Técnicas
 
 | Categoria | Tecnologias |
@@ -177,19 +155,6 @@ Minha jornada acadêmica começou com foco total em uma formação sólida e de 
 
 - 🎓 **Certificado Jornada Python** - Hashtag Treinamentos (Janeiro de 2026)
 - 🎓 **Semana do Zero ao Programador Contratado** - Dev em Dobro (Fevereiro de 2026)
-
----
-
-### 🎯 Metas para 2025-2026
-
-- Iniciar a graduação em Engenharia de Software com excelência acadêmica.
-- Desenvolver e lançar múltiplos projetos inovadores que demonstrem minhas habilidades técnicas.
-- Participar ativamente de conferências e eventos de tecnologia para expandir conhecimentos e networking.
-- Buscar oportunidades de estágio ou posições júnior em empresas de tecnologia.
-- Aprofundar conhecimentos em desenvolvimento FullStack e arquitetura de software.
-
----
-
 
 ---
 
