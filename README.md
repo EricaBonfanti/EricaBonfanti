@@ -157,78 +157,7 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
 
----
 
-## 🐍 Como adicionar o Snake Game (jogo da cobrinha) no seu perfil do Github
-
-Primeiramente devo deixar claro que esse artigo foi desenvolvido com base em vários outros artigos e reconstruído para deixar o mais claro possível a forma para inserir o Snake Game em seu perfil.
-
-### Funcionamento. "Contributions in the last year":
-Basicamente o Snake game funciona realizando uma coleta da sua tabela de contribuições no Github. ele faz a renderização dessas informações e gera dois arquivos, um em formato gif e outro em svg. São esses arquivos que iremos utilizar para inserir a animação no perfil do Github.
-
-Repositorio do projeto a ser utilizado: Platane/snk
-
-#### Exemple
-
-Requisito. "Repositório base":
-Para que você possa prosseguir é necessário que você tenha o repositório do perfil (repositório com o mesmo nome de usuário), porém para gerar os arquivos também funciona em outro repositório.
-
-Actions. "Configuração inicial":
-Inicialmente é necessário que você acesse o seu repositório escolhido e vá em Settings.
-
-No menu vertical ao lado esquerdo selecione o menu Actions e em seguida ative a permissão “Allow all actions”. Também é possível selecionar diretamente o repositório.
-
-Actions. "Criando Gerador":
-Agora que temos o repositório configurado iremos adicionar o "script" para gerar dos arquivos. No repositório, vá em Actions.
-
-Em seguida vamos utilizar “Simple workflow” apenas com o mínimo necessário para rodar o codigo.
-
-Agora é apenas alterar o nome do arquivo e colar o código da configuração com o seu usuário.
-
-# Nome da Actions:  
-name: Snake Game
-
-# Controlador do tempo que sera feito a atualização dos arquivos.
-on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
-
-# Regras
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: nomeUsuario #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
