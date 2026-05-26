@@ -155,6 +155,15 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 ---
 
+<!-- Animação da cobra -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
 
 ![snake gif](https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg)
