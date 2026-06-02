@@ -19,14 +19,14 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
         <img 
             alt="Minhas estrelas" 
             title="minhas estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EricaBonfanti?color=B22222&style=for-the-badge&labelColor=8B0000&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/EricaBonfanti?color=000080&style=for-the-badge&labelColor=000060&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/EricaBonfanti?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EricaBonfanti?color=FF0000&labelColor=CC0000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EricaBonfanti?color=bf0010&labelColor=990f00&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -146,7 +146,7 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 - 🎓 **Certificado de Participação - Encontro InterInstitucional do Projeto Meninas Digitais UIE** - Even3 (Novembro de 2025)
 - 🎓 **Imersão Dev com Google Gemini 10ª Edição** - Alura (Dezembro de 2025)
 - 🎓 **Figma for Devs** - Rocketseat (Dezembro de 2025)
-- 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
+- - 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
 
 #### **2026**
 
@@ -157,11 +157,13 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 <!-- Animação da cobra -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EricaBonfanti/EricaBonfanti/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/ericabonfanti) | [GitHub](https://github.com/EricaBonfanti)
+
+
