@@ -1,19 +1,25 @@
 <div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/UEqdfrEbENFjokGD.png" width="2500px" style="border-radius: 50%;" alt="Sua Foto">
-</div> <a href="https://git.io/typing-svg">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/UEqdfrEbENFjokGD.png" width="2500px" style="border-radius: 50%;" alt="Sua Foto">
+</div>
+
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
 </a>
 
-👋 Sobre Mim
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EricaBonfanti&label=Perfil%20Views&color=ff0000&style=flat" alt="Visitas" />
+</div>
 
-Olá! Meu nome é Érica Bonfanti Corrêa e tenho 18 anos. Sou formada no Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo e estou graduando Engenharia de Software na UniSatc.
+## 👋 Sobre Mim
 
-Meu interesse pela tecnologia começou de forma prática: resolvendo problemas em computadores e celulares no dia a dia. O que era curiosidade virou paixão ao entender que a tecnologia não serve apenas para "consertar", mas para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: Erica Bonfanti.
+Olá! Meu nome é **Érica Bonfanti Corrêa** e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e estou graduando **Engenharia de Software** na UniSatc. 
+
+Meu interesse pela tecnologia começou de forma prática: resolvendo problemas em computadores e celulares no dia a dia. O que era curiosidade virou paixão ao entender que a tecnologia não serve apenas para "consertar", mas para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos práticos. Acredito firmemente no potencial transformador da tecnologia e adoro enfrentar desafios que impulsionem a inovação.
 
-<p>
-<a href="https://github.com/EricaBonfanti?tab=repositories&sort=stargazers">
+<p align="center">
+    <a href="https://github.com/EricaBonfanti?tab=repositories&sort=stargazers">
         <img 
             alt="Minhas estrelas" 
             title="minhas estrelas no GitHub" 
@@ -29,10 +35,18 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
     </a>
 </p>
 
+---
 
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricaBonfanti&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaBonfanti&layout=compact&langs_count=7&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+</div>
 
-🤖 Linguagens e Tecnologias
+---
+
+### 🤖 Linguagens e Tecnologias
 
 <div align="center">
 <img 
@@ -115,85 +129,60 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-</div>   
+</div>
 
+<br/>
 
+---
 
+### 🚀 Competências Técnicas
 
+| Categoria | Tecnologias |
+|-----------|------------|
+| **Frontend** | <font color="#FF0000">HTML5, CSS3, JavaScript, Figma</font> |
+| **Backend** | <font color="#FF0000">PHP, Python, Java</font> |
+| **Banco de Dados** | <font color="#FF0000">MySQL, phpMyAdmin</font> |
+| **Automação** | <font color="#FF0000">n8n, Python</font> |
+| **Ferramentas** | <font color="#FF0000">VS Code, Git, GitHub</font> |
 
+---
 
-🚀 Competências Técnicas
+### 🏆 Conquistas e Certificações:
 
-Categoria
-Tecnologias
-Frontend
-<font color="#FF0000">HTML5, CSS3, JavaScript, Figma</font>
-Backend
-<font color="#FF0000">PHP, Python, Java</font>
-Banco de Dados
-<font color="#FF0000">MySQL, phpMyAdmin</font>
-Automação
-<font color="#FF0000">n8n, Python</font>
-Ferramentas
-<font color="#FF0000">VS Code, Git, GitHub</font>
+#### **2023**
+- 🥇 **Certificado de Inglês Intermediário** - SESC (2020-2023)
 
+#### **2025**
+- 🎓 **HTML Completo** - Cursa (Novembro de 2025)
+- 🎓 **Meninas Digitais UIE** - Even3 (Novembro de 2025)
+- 🎓 **Imersão Dev Gemini 10ª Ed.** - Alura (Dezembro de 2025)
+- 🎓 **Figma for Devs** - Rocketseat (Dezembro de 2025)
+- 📜 **Técnico em Informática** - CEDUP Abílio Paulo (2023-2025)
 
+#### **2026**
+- 🎓 **Certificado Jornada Python** - Hashtag Treinamentos (Janeiro de 2026)
+- 🎓 **Zero ao Programador Contratado** - Dev em Dobro (Fevereiro de 2026)
 
+---
 
-
-
-
-🏆 Conquistas e Certificações:
-
-2023
-
-•
-🥇 Certificado de Inglês Intermediário - SESC (2020-2023 )
-
-2025
-
-•
-🎓 HTML Completo - Cursa (Novembro de 2025)
-
-•
-🎓 Meninas Digitais UIE - Even3 (Novembro de 2025)
-
-•
-🎓 Imersão Dev Gemini 10ª Ed. - Alura (Dezembro de 2025)
-
-•
-🎓 Figma for Devs - Rocketseat (Dezembro de 2025)
-
-•
-📜 Técnico em Informática - CEDUP Abílio Paulo (2023-2025)
-
-2026
-
-•
-🎓 Certificado Jornada Python - Hashtag Treinamentos (Janeiro de 2026)
-
-•
-🎓 Zero ao Programador Contratado - Dev em Dobro (Fevereiro de 2026)
-
-
-
-
-🐍 Minhas Contribuições
+### 🐍 Minhas Contribuições
 
 <div align="center">
-<picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/snake.svg">
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/EricaBonfanti/EricaBonfanti/output/snake.svg">
   </picture>
 </div>
 
-
-
+---
 
 <div align="center">
-<strong>Conecte-se comigo:</strong> 
-  <a href="https://www.linkedin.com/in/ericabonfanti">LinkedIn</a> | 
-  <a href="https://github.com/EricaBonfanti">GitHub</a>
+  <strong>Conecte-se comigo:</strong><br><br>
+  <a href="https://www.linkedin.com/in/ericabonfanti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/EricaBonfanti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
