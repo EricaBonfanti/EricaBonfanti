@@ -37,15 +37,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricaBonfanti&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaBonfanti&layout=compact&langs_count=7&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</div>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
