@@ -26,13 +26,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
             src="https://custom-icon-badges.demolab.com/github/stars/EricaBonfanti?color=B22222&style=for-the-badge&labelColor=8B0000&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/EricaBonfanti?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EricaBonfanti?color=FF0000&labelColor=CC0000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
