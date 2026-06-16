@@ -6,23 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
 </a>
 
-## 👋 Sobre Mim
-
 Olá! Meu nome é **Érica Bonfanti Corrêa** e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e estou graduando **Engenharia de Software** na UniSatc. 
 
 Meu interesse pela tecnologia começou de forma prática: resolvendo problemas em computadores e celulares no dia a dia. O que era curiosidade virou paixão ao entender que a tecnologia não serve apenas para "consertar", mas para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos práticos. Acredito firmemente no potencial transformador da tecnologia e adoro enfrentar desafios que impulsionem a inovação.
-
-<p align="center">
-    <a href="https://github.com/EricaBonfanti?tab=repositories&sort=stargazers">
-        <img 
-            alt="Minhas estrelas" 
-            title="minhas estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EricaBonfanti?color=B22222&style=for-the-badge&labelColor=8B0000&logo=star&label=estrelas"
-        />
-    </a>
-</p>
 
 ---
 
