@@ -119,18 +119,6 @@ Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e op
 
 ---
 
-### 🚀 Competências Técnicas
-
-| Categoria | Tecnologias |
-|-----------|------------|
-| **Frontend** | <font color="#FF0000">HTML5, CSS3, JavaScript, Figma</font> |
-| **Backend** | <font color="#FF0000">PHP, Python, Java</font> |
-| **Banco de Dados** | <font color="#FF0000">MySQL, phpMyAdmin</font> |
-| **Automação** | <font color="#FF0000">n8n, Python</font> |
-| **Ferramentas** | <font color="#FF0000">VS Code, Git, GitHub</font> |
-
----
-
 ### 🏆 Conquistas e Certificações:
 
 #### **2023**
