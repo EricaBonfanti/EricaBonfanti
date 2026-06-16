@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
 </a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EricaBonfanti&label=Perfil%20Views&color=ff0000&style=flat" alt="Visitas" />
-</div>
-
 ## 👋 Sobre Mim
 
 Olá! Meu nome é **Érica Bonfanti Corrêa** e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e estou graduando **Engenharia de Software** na UniSatc. 
