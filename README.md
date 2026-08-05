@@ -17,15 +17,15 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
 
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=7A0019" width="45" alt="HTML" />
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=7A0019" width="45" alt="CSS" />
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=7A0019" width="45" alt="JavaScript" />
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=7A0019" width="45" alt="Python" />
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=7A0019" width="45" alt="Java" />
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=7A0019" width="45" alt="Git" />
-  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=7A0019" width="45" alt="GitHub" />
-  <img src="https://img.icons8.com/?size=100&id=PnrV6tAbzYGd&format=png&color=7A0019" width="45" alt="VS Code" />
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=7A0019" width="45" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 
 </div>
 
