@@ -17,15 +17,15 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=800020" width="45" alt="HTML"/>
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=800020" width="45" alt="CSS"/>
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=800020" width="45" alt="JavaScript"/>
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=800020" width="45" alt="Python"/>
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=800020" width="45" alt="Java"/>
-<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=800020" width="45" alt="Git"/>
-<img src="https://img.icons8.com/?size=100&id=62856&format=png&color=800020" width="45" alt="GitHub"/>
-<img src="https://img.icons8.com/?size=100&id=PnrV6tAbzYGd&format=png&color=800020" width="45" alt="VS Code"/>
-<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=800020" width="45" alt="Figma"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=7A0019" width="45" alt="HTML" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=7A0019" width="45" alt="CSS" />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=7A0019" width="45" alt="JavaScript" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=7A0019" width="45" alt="Python" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=7A0019" width="45" alt="Java" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=7A0019" width="45" alt="Git" />
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=7A0019" width="45" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=100&id=PnrV6tAbzYGd&format=png&color=7A0019" width="45" alt="VS Code" />
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=7A0019" width="45" alt="Figma" />
 
 </div>
 
