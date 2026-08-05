@@ -17,15 +17,15 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="45"/>
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="45"/>
-<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="45"/>
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="45"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="45"/>
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="45"/>
-<img src="https://img.icons8.com/ios-glyphs/90/github.png" alt="GitHub" width="45"/>
-<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="45"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="45"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=800020" width="45" alt="HTML"/>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=800020" width="45" alt="CSS"/>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=800020" width="45" alt="JavaScript"/>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=800020" width="45" alt="Python"/>
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=800020" width="45" alt="Java"/>
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=800020" width="45" alt="Git"/>
+<img src="https://img.icons8.com/?size=100&id=62856&format=png&color=800020" width="45" alt="GitHub"/>
+<img src="https://img.icons8.com/?size=100&id=PnrV6tAbzYGd&format=png&color=800020" width="45" alt="VS Code"/>
+<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=800020" width="45" alt="Figma"/>
 
 </div>
 
