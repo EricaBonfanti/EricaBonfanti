@@ -6,11 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=ff0000&center=true&vCenter=true&width=900&lines=%C3%89rica+Bonfanti+Corr%C3%AAa;Fultura+Desenvolvedora+%7C+Full-Stack;T%C3%A9cnica+em+Inform%C3%A1tica;Graduando+Engenharia+de+Software;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias" alt="Typing SVG" />
 </a>
 
-Olá! Meu nome é **Érica Bonfanti Corrêa** e tenho 18 anos. Sou formada no **Ensino Médio Técnico em Informática pelo CEDUP Abílio Paulo** e estou graduando **Engenharia de Software** na UniSatc. 
+My interest in technology started in practice, solving problems on computers and phones in **everyday life**, and turned into a passion when I realized that technology isn't just about "fixing," but about creating solutions and helping people use it better.
 
-Meu interesse pela tecnologia começou de forma prática: resolvendo problemas em computadores e celulares no dia a dia. O que era curiosidade virou paixão ao entender que a tecnologia não serve apenas para "consertar", mas para criar soluções inovadoras. Compartilho minha jornada e aprendizados no LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
+I am an IT Technician from CEDUP Abílio Paulo and I'm studying **Software Engineering at UniSATC** deepening my knowledge in requirements engineering, programming logic, and development practices. I currently work as a Scientific Research intern at SATC, where I develop organization, technical communication, and attention to detail in documenting methodologies and results.
 
-Sou uma entusiasta da programação, sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades em projetos práticos. Acredito firmemente no potencial transformador da tecnologia e adoro enfrentar desafios que impulsionem a inovação.
+Throughout my education, I gained experience in web development, programming logic, databases, system modeling, software testing, networks, and automation with Python. I also have hands-on experience in customer service, which gave me the ability to understand people's needs and explain technology in simple terms.
+
+I am proactive, organized, and focused on continuous learning. I am currently seeking opportunities in Technical Support, where I can combine my technical foundation with customer service, without losing sight of my goal of growing as a full-stack developer. ✨ LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 ---
 
