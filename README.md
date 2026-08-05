@@ -35,6 +35,21 @@ I am proactive, organized, and focused on continuous learning. I am currently se
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img align="center" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;"  src="https://github.com/user-attachments/assets/6776c2c5-addf-451f-8c4d-da23b53900a7" />
+
+<img  align="center" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" src="https://github.com/user-attachments/assets/e8761053-e3b7-4044-a38d-15445d632c27" />
+/>
+
+
 <img 
     align="center" 
     alt="PHP" 
@@ -43,6 +58,7 @@ I am proactive, organized, and focused on continuous learning. I am currently se
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
 <img 
     align="center" 
     alt="JavaScript" 
