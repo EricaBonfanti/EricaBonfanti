@@ -16,19 +16,19 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
-  <img align="center" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/html5/8B0000" />
-  <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/css/8B0000" />
-  <img align="center" alt="Angular" title="Angular" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/angular/8B0000" />
-  <img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/react/8B0000" />
-  <img align="center" alt="PHP" title="PHP" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/php/8B0000" />
-  <img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/javascript/8B0000" />
-  <img align="center" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/openjdk/8B0000" />
-  <img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/python/8B0000" />
-  <img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/git/8B0000" />
-  <img align="center" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/mysql/8B0000" />
-  <img align="center" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/figma/8B0000" />
-  <img align="center" alt="n8n" title="n8n" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/n8n/8B0000" />
-  <img align="center" alt="Visual Studio" title="Visual Studio" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/visualstudio/8B0000" />
+  <img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/python/6b7280" />
+  <img align="center" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/html5/6b7280" />
+  <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/css3" />
+  <img align="center" alt="Angular" title="Angular" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/angular/6b7280" />
+  <img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/react/6b7280" />
+  <img align="center" alt="PHP" title="PHP" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/php/6b7280" />
+  <img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/javascript/6b7280" />
+  <img align="center" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/git/6b7280" />
+  <img align="center" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/mysql/6b7280" />
+  <img align="center" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/figma/6b7280" />
+  <img align="center" alt="n8n" title="n8n" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/n8n/6b7280" />
+  <img align="center" alt="VS Code" title="VS Code" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/visualstudiocode/6b7280" />
 </div>
 <br/>
 
