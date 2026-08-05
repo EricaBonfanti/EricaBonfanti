@@ -15,16 +15,19 @@ Throughout my education, I gained experience in web development, programming log
 I am proactive, organized, and focused on continuous learning. I am currently seeking opportunities in Technical Support, where I can combine my technical foundation with customer service, without losing sight of my goal of growing as a full-stack developer. ✨ LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
 
 ### 🤖 Linguagens e Tecnologias
-<img src="https://img.shields.io/badge/HTML-800020?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-800020?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-800020?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-800020?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<br/>
+<div align="center">
+
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="45"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="45"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="45"/>
+<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="45"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="45"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="45"/>
+<img src="https://img.icons8.com/ios-glyphs/90/github.png" alt="GitHub" width="45"/>
+<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="45"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="45"/>
+
+</div>
 
 ---
 
