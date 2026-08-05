@@ -17,7 +17,7 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
   <img align="center" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/html5/8B0000" />
-  <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/css3/8B0000" />
+  <img align="center" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/css/8B0000" />
   <img align="center" alt="Angular" title="Angular" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/angular/8B0000" />
   <img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/react/8B0000" />
   <img align="center" alt="PHP" title="PHP" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/php/8B0000" />
