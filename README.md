@@ -12,9 +12,9 @@ I am an IT Technician from CEDUP Abílio Paulo and I'm studying **Software Engin
 
 Throughout my education, I gained experience in web development, programming logic, databases, system modeling, software testing, networks, and automation with Python. I also have hands-on experience in customer service, which gave me the ability to understand people's needs and explain technology in simple terms.
 
-I am proactive, organized, and focused on continuous learning. I am currently seeking opportunities in Technical Support, where I can combine my technical foundation with customer service, without losing sight of my goal of growing as a full-stack developer. ✨ LinkedIn: [Erica Bonfanti](https://www.linkedin.com/in/ericabonfanti).
+I am proactive, organized, and focused on continuous learning. I am currently seeking opportunities in Technical Support, where I can combine my technical foundation with customer service, without losing sight of my goal of growing as a full-stack developer.✨ 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
@@ -28,14 +28,6 @@ I am proactive, organized, and focused on continuous learning. I am currently se
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 
 </div>
-
----
-
-## Continuous Learning
-
-I am committed to continuous learning and professional development. Throughout my academic and professional journey, I have completed courses and certifications in Software Engineering, Web Development, Python, Artificial Intelligence, UI/UX, and related technologies.
-
-For a complete overview of my certifications, academic background, research experience, and professional activities, please visit my LinkedIn profile.
 
 ---
 
@@ -64,11 +56,3 @@ If you'd like to learn more about my work, research, certifications, or professi
   </a>
 </div>
 <div align="center">
-  <strong>Conecte-se comigo:</strong><br><br>
-  <a href="https://www.linkedin.com/in/ericabonfanti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/EricaBonfanti">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
