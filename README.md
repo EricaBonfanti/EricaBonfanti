@@ -2,9 +2,9 @@
   <img width="1920" height="539" alt="now (22)" src="https://github.com/user-attachments/assets/d4bb62a7-6ad8-466a-b558-286c8b03daca" />
 </div>
 
-<a href="https://git.io/typing-svg">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E51D1D&center=true&vCenter=true&width=600&lines=IT+Technician;Software+Engineering+Student;Always+Seeking+to+Learn+More" alt="Typing SVG" />
-</a>
+</div>
 
 My interest in technology started in practice, solving problems on computers and phones in **everyday life**, and turned into a passion when I realized that technology isn't just about "fixing," but about creating solutions and helping people use it better.
 
