@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/UEqdfrEbENFjokGD.png" width="2500px" style="border-radius: 50%;" alt="Sua Foto">
+  <img src="<img width="1920" height="539" alt="now (22)" src="https://github.com/user-attachments/assets/d4bb62a7-6ad8-466a-b558-286c8b03daca" />
 </div>
 
 <a href="https://git.io/typing-svg">
